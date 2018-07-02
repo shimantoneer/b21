@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.amazon.com/gp/product/B00NVLNZ8Y/");
+header("Location: http://amazontrkz.herokuapp.com/test2");
 die();
 ?>
